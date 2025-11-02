@@ -1,2 +1,5 @@
 tmp.json
 tmp.json
+.env
+.env.*
+*.ipynb_checkpoints/
